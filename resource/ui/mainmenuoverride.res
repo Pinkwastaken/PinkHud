@@ -102,8 +102,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"MainMenuAnchor"
-		"xpos"										"c-241"
-		"ypos"										"235"
+		"xpos"										"37"
+		"ypos"										"32"
 		"wide"										"10"
 		"tall"										"10"
 		"visible"									"0"
@@ -121,7 +121,7 @@
 		"xpos"										"-3"
 		"ypos"										"4"
 		"zpos"										"1"
-		"wide"										"200"
+		"wide"										"0"
 		"tall"										"40"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
@@ -142,7 +142,7 @@
 		"xpos"										"424"
 		"ypos"										"-415"
 		"zpos"										"2"
-		"wide"										"900"
+		"wide"										"0"
 		"tall"										"900"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
@@ -263,7 +263,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -304,7 +304,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -345,7 +345,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -386,7 +386,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -427,7 +427,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -468,7 +468,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -509,7 +509,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -550,7 +550,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -591,7 +591,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -632,7 +632,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -673,7 +673,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -719,7 +719,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -761,7 +761,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -803,7 +803,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -842,7 +842,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -883,7 +883,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -924,7 +924,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -966,7 +966,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1032,7 +1032,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1089,7 +1089,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1129,7 +1129,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1169,7 +1169,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1209,7 +1209,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1249,7 +1249,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1289,7 +1289,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1369,7 +1369,7 @@
 			"paintbackground"						"0"
 			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"White"
+			"defaultFgColor_override" 				"Black"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
 		}
@@ -1383,8 +1383,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"FriendsContainer"
-		"xpos"										"rs1"
-		"ypos"										"200"
+		"xpos"										"37"
+		"ypos"										"rs1-9"
 		"zpos"										"11"
 		"wide"										"106"
 		"tall"										"220"
