@@ -10,6 +10,16 @@
 		"command" 									"engine showconsole; exec echo "
 		"OnlyAtMenu"								"1"
 	}
+	"Walkway"
+	{
+		"label" 									"Walkway"
+		"command" 									"engine map tr_walkway_rc2"
+	}
+	"Denial"
+	{
+		"label" 									"Denial"
+		"command" 									"engine map tr_denial_v3"
+	}
 	"Servers"
 	{
 		"label" 									"Servers"
@@ -55,12 +65,6 @@
 		"label"										"Streams"
 		"command"									"watch_stream"
 	}
-	"Quit"
-	{
-		"label" 									"Quit"
-		"command" 									"engine replay_confirmquit"
-		"OnlyAtMenu"								"1"
-	}
 
 	//====================================================================================================================================================
 	// IN GAME BUTTONS
@@ -71,18 +75,6 @@
 		"label"										"Scoreboard"
 		"command"									"engine toggle cl_hud_minmode"
 		"OnlyInGame"								"1"
-	}
-	"Disconnect"
-	{
-		"label" 									"Disconnect"
-		"command" 									"engine disconnect"
-		"OnlyInGame" 								"1"
-	}
-	"QuitGame"
-	{
-		"label" 									"Quit"
-		"command" 									"engine replay_confirmquit"
-		"OnlyInGame" 								"1"
 	}
 	"Vote"
 	{

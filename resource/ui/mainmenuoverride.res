@@ -638,47 +638,6 @@
 		}
 	}
 
-	"Quit"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"Quit"
-		"xpos"										"0"
-		"ypos"										"3"
-		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
-
-		"pin_to_sibling" 							"Streams"
-		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"SubButton"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"f0"
-			"tall"									"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"proportionaltoparent"					"1"
-			"font"									"Coolvetica15"
-			"AllCaps"								"1"
-			"textAlignment"							"west"
-			"default"								"1"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-
-			"paintbackground"						"0"
-			"paintborder"							"0"
-
-			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"Menu Labels"
-			"depressedFgColor_override" 			"Menu Labels"
-		}
-	}
-
 	//==================================================================================================================================================
 	// INGAME BUTTONS
 	//==================================================================================================================================================
@@ -695,90 +654,6 @@
 		"visible"									"0"
 
 		"pin_to_sibling" 							"Streams"
-		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"SubButton"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"f0"
-			"tall"									"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"proportionaltoparent"					"1"
-			"font"									"Coolvetica15"
-			"AllCaps"								"1"
-			"textAlignment"							"west"
-			"default"								"1"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-
-			"paintbackground"						"0"
-			"paintborder"							"0"
-
-			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"Menu Labels"
-			"depressedFgColor_override" 			"Menu Labels"
-		}
-	}
-
-	"Disconnect"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"Disconnect"
-		"xpos"										"0"
-		"ypos"										"3"
-		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
-		"visible"									"0"
-
-		"pin_to_sibling" 							"Scoreboard"
-		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"							"CExImageButton"
-			"fieldName"								"SubButton"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"f0"
-			"tall"									"f0"
-			"visible"								"1"
-			"enabled"								"1"
-			"proportionaltoparent"					"1"
-			"font"									"Coolvetica15"
-			"AllCaps"								"1"
-			"textAlignment"							"west"
-			"default"								"1"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-
-			"paintbackground"						"0"
-			"paintborder"							"0"
-
-			"defaultFgColor_override" 				"Black"
-			"armedFgColor_override" 				"Menu Labels"
-			"depressedFgColor_override" 			"Menu Labels"
-		}
-	}
-
-	"QuitGame"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"QuitGame"
-		"xpos"										"0"
-		"ypos"										"3"
-		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
-		"visible"									"0"
-
-		"pin_to_sibling" 							"Disconnect"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
 
@@ -1037,7 +912,88 @@
 			"depressedFgColor_override" 			"Menu Labels"
 		}
 	}
+	
+	"Walkway"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"Walkway"
+		"xpos"										"c20+40+40"
+		"ypos"										"rs+0.5-120"
+		"zpos"										"15"
+		"wide"										"90"
+		"tall"										"14"
+		"visible"									"0"
 
+		//"pin_to_sibling" 							"MainMenuAnchor"
+		"bgcolor_override"									"0 0 255 255"
+		"SubButton"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"SubButton"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"font"									"Coolvetica15"
+			"AllCaps"								"1"
+			"textAlignment"							"center"
+			"default"								"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"paintbackground"						"0"
+			"paintborder"							"0"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"Menu Labels"
+			"depressedFgColor_override" 			"Menu Labels"
+		}
+	}
+	
+	"Denial"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"Denial"
+		"xpos"										"c20+40+150+20"
+		"ypos"										"rs+0.5-120"
+		"zpos"										"15"
+		"wide"										"90"
+		"tall"										"14"
+		"visible"									"0"
+
+		//"pin_to_sibling" 							"MainMenuAnchor"
+		"bgcolor_override"									"0 0 255 255"
+		
+		"SubButton"
+		{
+			"ControlName"							"CExImageButton"
+			"fieldName"								"SubButton"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"visible"								"1"
+			"enabled"								"1"
+			"proportionaltoparent"					"1"
+			"font"									"Coolvetica15"
+			"AllCaps"								"1"
+			"textAlignment"							"center"
+			"default"								"1"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"paintbackground"						"0"
+			"paintborder"							"0"
+
+			"defaultFgColor_override" 				"Black"
+			"armedFgColor_override" 				"Menu Labels"
+			"depressedFgColor_override" 			"Menu Labels"
+		}
+	}
+	
 	//==================================================================================================================================================
 	// TOOL BAR
 	//==================================================================================================================================================
