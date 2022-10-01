@@ -40,19 +40,19 @@
 	//==================================================================================================================================================
 
 	"PlayerStatusHealthBonusImage"
-	{
-		"ControlName"	         				 	"ImagePanel"
-		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
-		"xpos"			         				 	"99999"
-		"ypos"			         				 	"99999"
-		"zpos"			         				 	"-4"
-		"wide"			         				 	"66"
-		"tall"			         				 	"66"
-		"visible"		         				 	"0"
-		"enabled"		         				 	"1"
-		"image"			         				 	"../hud/health_over_bg"
-		"scaleImage"	         				 	"1"
-	}
+    {
+        "ControlName"                                  "ImagePanel"
+        "fieldName"                                      "PlayerStatusHealthBonusImage"
+        "xpos"                                          "cs-0.5"
+        "ypos"                                        "cs-0.5+25+40"
+        "zpos"                                        "-1"
+        "wide"                                        "75"
+        "tall"                                        "o1"
+        "visible"                                    "1"
+        "enabled"                                    "1"
+        "image"                                        "replay/thumbnails/astolfobonus"
+        "scaleImage"                                "1"
+    }
 
 	//==================================================================================================================================================
 	// PLAYER HEALTH

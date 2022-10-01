@@ -3,7 +3,7 @@
 event HudHealthBonusPulse
 {
 	Animate	PlayerStatusHealthBonusImage 			Alpha		"255"								Linear 	0.0 	0.2
-	Animate	PlayerStatusHealthBonusImage 			Alpha		"0"									Linear 	0.2 	0.4
+	//Animate	PlayerStatusHealthBonusImage 			Alpha		"0"									Linear 	0.2 	0.4
 
 	Animate PlayerStatusHealthValueShadow 			FgColor 	"Health Buff" 						Linear 	0.0 	0.0
 	Animate PlayerStatusHealthValueShadowExtra 		Alpha 		"255" 								Linear 	0.0 	0.0
@@ -37,7 +37,7 @@ event HudHealthBonusPulseStop
 event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage 			Alpha		"255"								Linear 	0.0 	0.075
-	Animate	PlayerStatusHealthBonusImage 			Alpha		"0"									Linear 	0.125 	0.075
+	//Animate	PlayerStatusHealthBonusImage 			Alpha		"0"									Linear 	0.125 	0.075
 
 	Animate PlayerStatusHealthValueShadow 			FgColor 	"Health Hurt" 						Linear 	0.0 	0.0
 	Animate PlayerStatusHealthValueShadowExtra 		Alpha 		"255" 								Linear	0.0 	0.0
