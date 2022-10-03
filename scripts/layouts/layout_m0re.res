@@ -141,7 +141,7 @@
 	"HudDeathNotice"
 	{
 		"xpos"	 									"r640"
-		"ypos"	 									"15"
+		"ypos"	 									"85"
 		"wide"	 									"628"
 		"tall"	 									"468"
 

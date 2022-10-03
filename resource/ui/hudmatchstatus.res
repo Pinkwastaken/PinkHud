@@ -186,7 +186,7 @@
 		"zpos"				"1"
 		"wide"				"200"
 		"tall"				"480"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
 		"delta_item_x"			"9999"
 		"delta_item_start_y"	"9999"
@@ -250,11 +250,11 @@
 		"12v12_gap"	"2"
 
 		"team1_grow_dir" "west"
-		"team1_base_x"	"c-30"
+		"team1_base_x"	"c-50"
 		"team1_max_expand"	"250"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c30"
+		"team2_base_x"	"c50"
 		"team2_max_expand"	"250"
 
 		"playerpanels_kv"
